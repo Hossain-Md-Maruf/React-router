@@ -1,0 +1,11 @@
+.friend
+{
+    border: 3px dashed goldenrod;
+    margin-left: 75px;
+    padding-top: 100px;
+    border-radius: 15px;
+    background-color: beige;
+    color:rgb(136, 173, 173);
+    height: 300px;
+    width: 400px;
+}
