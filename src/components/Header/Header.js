@@ -15,6 +15,7 @@ const Header = () => {
                 to="/about">About</NavLink>
                 <NavLink activeStyle={activeStyle}
                 to="/friends">Friends</NavLink>
+                <NavLink activeStyle={activeStyle} to="/about/culture">Culture</NavLink>
             </nav>
         </div>
     );
